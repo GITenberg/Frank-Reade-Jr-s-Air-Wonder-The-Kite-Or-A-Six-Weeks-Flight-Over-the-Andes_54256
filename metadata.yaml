@@ -1,5 +1,8 @@
 _repo: Frank-Reade-Jr-s-Air-Wonder-The-Kite-Or-A-Six-Weeks-Flight-Over-the-Andes_54256
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54256-h/images/cover.jpg
 creator:
   author:
     agent_name: Senarens, Luis
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '36301'
     url: http://www.gutenberg.org/2009/agents/36301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54256#Frank-Reade-Jr-s-Air-Wonder-The-Kite-Or-A-Six-Weeks-Flight-Over-the-Andes
 gutenberg_issued: '2017-02-28'
 gutenberg_type: Text
 identifiers:
